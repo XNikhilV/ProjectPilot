@@ -1,0 +1,1 @@
+ProjectPilot is a full-stack task management application built with Angular and Tailwind CSS on the front-end, and a Node.js/Express.js backend with an SQLite database. It features user authentication, and allows users to create, update, and delete projects and tasks. The dashboard displays project and task statuses.
